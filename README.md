@@ -11,7 +11,7 @@ npm install
 npm run deploy
 ```
 
-Then in the Cloudflare dashboard, attach the custom domain `nozabihahalal.com` to the worker `nozabihahalal-com`.
+Then in the Cloudflare dashboard, attach the custom domain `nozabihahalal.com` to the worker `nozabihahalal-comv2`.
 
 Workers & Pages → Create → Import this GitHub repo also works:
 
